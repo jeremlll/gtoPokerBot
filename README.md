@@ -1,4 +1,4 @@
-# GTO3 Poker Bot
+# GTO3
 ### Submission for PokerHack 2025 by HackMelbourne
 
 This bot was inspired by Game Theory Optimal (GTO) play and it is designed to play in careful consideration of pot size, hand strength and position.
